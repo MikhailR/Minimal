@@ -76,6 +76,10 @@
 	.item__image img {
 		width: 100%;
 	}
+
+	.item__title {
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 480px) {
@@ -92,6 +96,7 @@
 
 	.item__text {
 		font-size: 12px;
+		line-height: 16px;
 	}
 
 	.item__image {

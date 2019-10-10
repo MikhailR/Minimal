@@ -38,7 +38,7 @@
 				inset 5px 5px 5px rgba(0,0,0,0.7);
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1350px) {
 	.top {
 		padding: 150px 0 180px;
 	}
