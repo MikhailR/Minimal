@@ -9,6 +9,8 @@ font-family: 'Open Sans', sans-serif;*/
 @import url("section-video.css");
 @import url("section-works.css");
 @import url("section-join.css");
+@import url("section-contacts.css");
+@import url("section-footer.css");
 
 * {
 	margin: 0;
